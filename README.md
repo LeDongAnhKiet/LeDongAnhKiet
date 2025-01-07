@@ -2,7 +2,7 @@
 
 Hi! Call me Keith, I graduated from IT but am now trying to switch to DA.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeDongAnhKiet&show_icons=true&theme=radical&locale=vn&include_all_commits=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeDongAnhKiet&show_icons=true&theme=radical&locale=vn&include_all_commits=true)
 
 ![Badge](https://img.shields.io/badge/Skill-Python-blue?logo=python&logoColor=white)
 
