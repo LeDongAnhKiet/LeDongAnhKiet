@@ -6,7 +6,7 @@ Hi! Call me Keith, I graduated from IT but am now trying to switch to DA.
 
 ![Badge](https://img.shields.io/badge/Skill-Python-blue?logo=python&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeDongAnhKiet&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeDongAnhKiet&layout=compact&locale=vi)
 
 ## 🛠️ Skills
 - Programming: Python, PHP, C++, C#, Java
