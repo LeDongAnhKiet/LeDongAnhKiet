@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My Profile 👋
 
-<!--
-**LeDongAnhKiet/LeDongAnhKiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! Call me Keith, I graduated from IT but am now trying to switch to DA.
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeDongAnhKiet&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Badge](https://img.shields.io/badge/Skill-Python-blue?logo=python&logoColor=white)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeDongAnhKiet&layout=compact)
+
+## 🛠️ Skills
+- Programming: Python, PHP, C++, C#, Java
+ 
+- 🔭 I’m currently working on nothing :(
+- 🌱 I’m currently learning DS (self-taught)
+- 👯 I’m looking to collaborate on DA
+- 🤔 I’m looking for jobs
+- 💬 Ask me about anything maybe
+- 😄 Pronouns: he/he
+- ⚡ Fun fact: Got lots of ideas (games related) but have never finish any :(
